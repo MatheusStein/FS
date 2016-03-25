@@ -1,0 +1,10 @@
+<widget id="com.Tedi.FS" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+	<name>Flat Sweeper</name>
+	<description>
+		Minesweeper with flat design
+	</description>
+
+	<author email="tedi.todinho@gmail.com">
+	   Matheus Stein
+	</author>
+</widget>
